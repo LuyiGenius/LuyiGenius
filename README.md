@@ -7,8 +7,8 @@
 ## What you will find here:
 1. 🚀Python Data Analyst Project - Data Collection with APIs/Webscraping, Data Wrangling, Exploratory Data Analysis, Data Visualization, Dashboards, Report.
 2. 📌SQL - Databases and SQL for Data Science with Python
-3. 📊 Power BI Dashboards - Data storytelling and visual analytics.
-4. 🏩 Upcoming AI & Python Projects – Exciting machine learning on its way!
+3. 📊 Power BI Dashboards - Data Storytelling and Visual Analytics.
+4. 🏩 Upcoming AI & Python Projects – Machine Learning on its Way!
 
 ## What I am passionate about:
 🏆 Data-driven Decision-making.
